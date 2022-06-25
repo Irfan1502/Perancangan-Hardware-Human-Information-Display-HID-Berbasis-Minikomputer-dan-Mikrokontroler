@@ -1,0 +1,65 @@
+#box-hijau{
+width:75px;
+height:100px;
+background:#4FA64F;
+color: #4FA64F;
+}
+
+#box-merah{
+width:75px;
+height:100px;
+background:#B32134;
+color: #B32134;
+}
+
+#box-kuning{
+width:75px;
+height:100px;
+background:#FFC40E;
+color: #FFC40E;
+}
+
+.mt-2{
+position: absolute;
+width:135px;
+height:30px;
+left: 980px;
+top: 80px;
+font-family: sans-serif;
+font-size:20px;
+background:black;
+color: white;
+opacity: 0.7;
+}
+
+.mt-3{
+  position: absolute;
+  right: 50px;
+  top: 50px;
+  font-family: sans-serif;
+  font-size: 25px;
+  line-height: 84px;
+  color: grey;
+  opacity: 0.3;
+}
+
+.mt-4{
+  position: absolute;
+  left: 350px;
+  top: 360px;
+  font-family: sans-serif;
+  font-size: 200px;
+  line-height: 84px;
+  color: grey;
+  opacity: 0.3;
+}
+
+.text{
+	float:left;
+	background-color: white;
+	font-size: 25px;
+	margin-top: 28%;
+	transform: rotate(90deg);
+	padding:10px;
+	font-weight: bold;
+}
